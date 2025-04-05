@@ -1,7 +1,6 @@
 # 🧾 Tax System in Scala
-## Challenge: Build a TAX system where different products have different tax per state and year. (on Scala)
 
-This project is a simple tax calculation system written in **Scala**. It supports different tax rates per state and year and can calculate the final product price based on those rules.
+This project is a challenge to Build a TAX system writin in **Scala** where different products have different tax per state and year.
 
 ---
 
